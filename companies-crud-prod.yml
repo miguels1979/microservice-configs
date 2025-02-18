@@ -1,5 +1,5 @@
 db:
-  url: jdbc:postgresql://localhost:5432/companies-prod
+  url: jdbc:postgresql://db-companies:5432/companies-prod
   connection-timeout: 20000
   maximum-pool-size: 5
   password: 1234
