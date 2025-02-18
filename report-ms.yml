@@ -4,4 +4,3 @@ fallback:
   #uri: "http://localhost:8787/companies-crud-fallback/company/{name}"
   #uri: "http://host.docker.internal:8787/companies-crud-fallback/company/{name}"
    uri: "http://ms-companies-fallback:8787/companies-crud-fallback/company/{name}"
-  
